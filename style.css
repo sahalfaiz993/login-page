@@ -1,0 +1,61 @@
+.one{
+    background-color: white;
+    font-weight: bold;
+
+    float: left;
+    text-align: center;
+    /* margin: 40px; */
+    margin-left: 50px;
+    /* border: 2PxX solid BLACK; */
+    height: 570PX;
+    width: 30%;
+    margin-top: 40px;
+    /* margin-top: 150px; */
+    margin-right: 0px;
+   
+   
+}
+.TWO{ background-color: white;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    margin: 40px;
+    /* border: 2PX solid black; */
+    height: 570PX;
+    width: 60%;
+    margin-left: 10;
+    padding-top: 50px;
+   
+   
+
+}
+.main{
+    height: 100px;
+   
+}
+p{
+    padding-top: 15px;
+}
+.sahal{
+    padding-top: 80px;
+   
+}
+input{
+    width: 300px;
+    border-radius: 7px;
+    margin-top: -150px;
+}
+.five{ margin-top: 10px;
+    border: 2px;
+    background-color:blue;
+    color: white;
+    border-radius: 5px;
+    width: 70px;
+    height: 50px;
+   
+   
+}
+.six{
+    margin: 10px;
+}
+
